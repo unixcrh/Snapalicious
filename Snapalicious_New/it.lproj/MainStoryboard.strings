@@ -1,0 +1,114 @@
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor"; ObjectID = "0Xw-7h-1eZ"; */
+"0Xw-7h-1eZ.text" = "Lorem ipsum dolor";
+
+/* Class = "IBUILabel"; text = "32"; ObjectID = "1Mp-bD-sAu"; */
+"1Mp-bD-sAu.text" = "32";
+
+/* Class = "IBUIButton"; normalTitle = "I have a photo"; ObjectID = "29s-9D-BuX"; */
+"29s-9D-BuX.normalTitle" = "Ho la foto!";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "2AC-fX-fBh"; */
+"2AC-fX-fBh.text" = "Titolo";
+
+/* Class = "IBUIBarButtonItem"; title = "Logout"; ObjectID = "5m8-M6-l6F"; */
+"5m8-M6-l6F.title" = "Esci";
+
+/* Class = "IBUILabel"; text = "Additional options"; ObjectID = "5o4-tN-LqA"; */
+"5o4-tN-LqA.text" = "Additional options";
+
+/* Class = "IBUIButton"; normalTitle = "I need a photo"; ObjectID = "6DD-eX-3V5"; */
+"6DD-eX-3V5.normalTitle" = "Non ho una foto";
+
+/* Class = "IBUINavigationItem"; title = "Profile"; ObjectID = "7SR-ZA-Mq5"; */
+"7SR-ZA-Mq5.title" = "Profilo";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "7mc-H8-dPz"; */
+"7mc-H8-dPz.text" = "0";
+
+/* Class = "IBUILabel"; text = "Enter a dish name below"; ObjectID = "E0d-Xv-y4n"; */
+"E0d-Xv-y4n.text" = "Scrivi il nome del piatto";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "EDs-Iv-6Q9"; */
+"EDs-Iv-6Q9.text" = "-";
+
+/* Class = "IBUIBarButtonItem"; title = "Like!"; ObjectID = "HwZ-Ls-3fL"; */
+"HwZ-Ls-3fL.title" = "Mi piace!";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor"; ObjectID = "I7Z-nA-v02"; */
+"I7Z-nA-v02.text" = "Lorem ipsum dolor";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor"; ObjectID = "Iyc-1e-ieD"; */
+"Iyc-1e-ieD.text" = "Lorem ipsum dolor";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "L77-DN-P2Q"; */
+"L77-DN-P2Q.title" = "Indietro";
+
+/* Class = "IBUILabel"; text = "I will give 50 points to the winner of the challenge"; ObjectID = "LAD-gK-ljO"; */
+"LAD-gK-ljO.text" = "I will give 50 points to the winner of the challenge";
+
+/* Class = "IBUILabel"; text = "Describe the challenge\n(eg. what are the ingredients?\nwhich wine could I pair with this dish? etc)"; ObjectID = "Lmb-hO-iHa"; */
+"Lmb-hO-iHa.text" = "Describe the challenge\n(eg. what are the ingredients?\nwhich wine could I pair with this dish? etc)";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "LpJ-U5-hX9"; */
+"LpJ-U5-hX9.text" = "-";
+
+/* Class = "IBUIButton"; normalTitle = "I know the answer!"; ObjectID = "PhA-d5-g4N"; */
+"PhA-d5-g4N.normalTitle" = "Conosco la risposta!";
+
+/* Class = "IBUINavigationItem"; title = "Dishes"; ObjectID = "RAQ-it-8PX"; */
+"RAQ-it-8PX.title" = "Piatti";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "ThI-5Y-Vs1"; */
+"ThI-5Y-Vs1.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Add Dish"; ObjectID = "bJN-g5-Fa6"; */
+"bJN-g5-Fa6.title" = "Aggiungi piatto";
+
+/* Class = "IBUITextField"; placeholder = "Dish name"; ObjectID = "bw0-WI-qqa"; */
+"bw0-WI-qqa.placeholder" = "Nome del piatto";
+
+/* Class = "IBUILabel"; text = "TITLE"; ObjectID = "cSj-57-yTm"; */
+"cSj-57-yTm.text" = "TITOLO";
+
+/* Class = "IBUIButton"; normalTitle = "I know the answer!"; ObjectID = "gsX-j6-dxN"; */
+"gsX-j6-dxN.normalTitle" = "Conosco la risposta!";
+
+/* Class = "IBUINavigationItem"; title = "Detail"; ObjectID = "hee-Tw-Zu9"; */
+"hee-Tw-Zu9.title" = "Informazioni";
+
+/* Class = "IBUINavigationItem"; title = "Challenges"; ObjectID = "hpr-6T-eqt"; */
+"hpr-6T-eqt.title" = "Sfide";
+
+/* Class = "IBUIBarButtonItem"; title = "Share!"; ObjectID = "iq0-Bm-iU1"; */
+"iq0-Bm-iU1.title" = "Condividi";
+
+/* Class = "IBUIButton"; normalTitle = "Write a comment"; ObjectID = "jGk-xF-sYI"; */
+"jGk-xF-sYI.normalTitle" = "Write a comment";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "jJu-C6-W5F"; */
+"jJu-C6-W5F.text" = "-";
+
+/* Class = "IBUILabel"; text = "0 ACTIVITY ITEMS"; ObjectID = "jnB-mw-ovp"; */
+"jnB-mw-ovp.text" = "0 attività";
+
+/* Class = "IBUIButton"; normalTitle = "New challenge"; ObjectID = "ljp-9j-QlW"; */
+"ljp-9j-QlW.normalTitle" = "Nuova sfida";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "oLu-9R-cZ1"; */
+"oLu-9R-cZ1.text" = "-";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "qsk-aE-zFg"; */
+"qsk-aE-zFg.text" = "-";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "rE3-2Y-dKN"; */
+"rE3-2Y-dKN.text" = "-";
+
+/* Class = "IBUILabel"; text = "- "; ObjectID = "rhG-Es-8DN"; */
+"rhG-Es-8DN.text" = "- ";
+
+/* Class = "IBUILabel"; text = "-"; ObjectID = "tbd-dK-iAg"; */
+"tbd-dK-iAg.text" = "-";
+
+/* Class = "IBUILabel"; text = "points"; ObjectID = "uWV-YV-mbA"; */
+"uWV-YV-mbA.text" = "punti";

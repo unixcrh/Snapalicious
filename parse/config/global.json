@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Snapalicious": {
+            "applicationId": "PARSE_APPLICATION_ID", 
+            "masterKey": "PARSE_MASTER_KEY"
+        }
+        "_default": {
+            "link": "Snapalicious"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.1.5"
+    }
+}
