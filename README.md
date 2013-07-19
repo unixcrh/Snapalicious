@@ -11,7 +11,11 @@ Run the following commands to get started:
     $ git clone --recursive https://github.com/zerobudgetdev/Snapalicious.git
     $ cd Snapalicious
 
-Now open the Xcode project and follow all the steps [here](https://developers.facebook.com/docs/getting-started/facebook-sdk-for-ios/) before building:
+Now open the Xcode project and follow the following steps:
+
+	Configure the Facebook SDK. [See here](https://developers.facebook.com/docs/getting-started/facebook-sdk-for-ios/)
+	Create a Parse App and add your keys in the AppDelegate. [See here] https://parse.com/apps/quickstart
+	(optional) Create an app on Flurry and add the key in the AppDelegate.
 
 Need help? Email <support@snapaliciousapp.com> or open an issue with specifics.
 
@@ -19,7 +23,7 @@ Need help? Email <support@snapaliciousapp.com> or open an issue with specifics.
 
 This is open source since the app is free already. It is intended to be a source of sample code for everyone to benefit from. You can make cool apps that use Snapalicious and I hopefully get more users because you built something awesome.
 
-Also, if you want to help out and fix some bugs, I'll love you forever. Maybe you'll even get a shirt or something :)
+Also, if you want to help out and fix some bugs, I'll love you forever.
 
 ## License
 
