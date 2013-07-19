@@ -8,7 +8,7 @@
 
 Run the following commands to get started:
 
-    $ git clone --recursive https://github.com/zerobudgetdev/Snapalicious.git
+    $ git clone https://github.com/zerobudgetdev/Snapalicious.git
     $ cd Snapalicious
 
 Now open the Xcode project and follow the following steps:
